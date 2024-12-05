@@ -1,2 +1,2 @@
-#git-pracitce
+# git-pracitce
 git 실습을 위한 저장소
